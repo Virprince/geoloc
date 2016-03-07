@@ -1,0 +1,59 @@
+
+[
+    {
+    	"nom":"John", 
+    	"prenom":"Doe", 
+    	"entreprise": "John Doe Corp",
+    	"latitude":45.6374151, 
+    	"longitude": -1.0299501 ,  
+    	"adresse": "3 rue Ketanou", 
+    	"codePostal": "17200", 
+    	"ville": "Royan", 	
+    	"description": "La première entreprise de John Doe, spécialisé dans le reprisage de chaussette."
+    },
+    {
+        "nom": "Smith",
+        "prenom": "John",
+        "entreprise": "Smith Corp.",
+        "adresse": "10 rue chepaou",
+        "codePostal": "17200",
+        "ville": "La Rochelle",
+        "latitude": 45.9455313,
+        "longitude": -1.0094928,
+        "description": "5ème génération de Smith dans l'entreprise"
+    },
+    {
+    	"nom":"John", 
+    	"prenom":"Doe", 
+    	"entreprise": "John Doe Corp 2", 
+    	"adresse": "3 rue Ketanou", 
+    	"codePostal": "17200", 
+    	"ville": "Saintes", 
+    	"latitude":45.7462576, 
+    	"longitude": -0.6797323 , 
+    	"description": "La première entreprise de John Doe, spécialisé dans le reprisage de chaussette."
+    },
+    {
+    	"nom": "Smith",
+        "prenom": "John",
+        "entreprise": "Smith Corp 2",
+        "adresse": "10 rue chepaou",
+        "codePostal": "17200",
+        "ville": "Royan",
+        "latitude": 45.6341444,
+        "longitude": -1.0306689,
+        "description": "5ème génération de Smith dans l'entreprise"
+    },
+    {
+    	"nom":"John", 
+    	"prenom":"Doe", 
+    	"entreprise": "John Doe Corp 3", 
+    	"adresse": "3 rue Ketanou", 
+    	"codePostal": "17200", 
+    	"ville": "Cognac", 
+    	"latitude":45.6880483, 
+    	"longitude": -0.3409899 , 
+    	"description": "La première entreprise de John Doe, spécialisé dans le reprisage de chaussette."
+    }
+    
+]

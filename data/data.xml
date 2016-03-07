@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<list-data>
+    <ostreiculteur>
+        <id>1</id>
+        <nom>Doe</nom>
+        <prenom>John</prenom>
+        <entreprise>John Doe Corp.</entreprise>
+        <adresse>3 rue Kétanou</adresse>
+        <code-postal>17200</code-postal>
+        <ville>Royan</ville>
+        <latitude>45.6374151</latitude>
+        <longitude>-1.0299501</longitude>
+        <description>La première entreprise de John Doe, spécialisé dans le reprisage de chaussette.</description>
+    </ostreiculteur>
+    <ostreiculteur>
+        <id>2</id>
+        <nom>Smith</nom>
+        <prenom>John</prenom>
+        <entreprise>Smith Corp.</entreprise>
+        <adresse>10 rue chepaou</adresse>
+        <code-postal>17200</code-postal>
+        <ville>Royan</ville>
+        <latitude>45.6341444</latitude>
+        <longitude>-1.0306689</longitude>
+        <description>5ème génération de Smith dans l'entreprise</description>
+    </ostreiculteur>
+</list-data>
